@@ -1,0 +1,8 @@
+name: Kic
+version: '${project.version}'
+main: andysthings.kic.Kic
+api-version: 1.18
+authors: [ WillowCraft29 ]
+commands:
+  keepinv:
+    aliases: keepinventory
