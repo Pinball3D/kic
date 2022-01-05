@@ -6,3 +6,5 @@ authors: [ WillowCraft29 ]
 commands:
   keepinv:
     aliases: keepinventory
+  kic:
+    aliases: keepinventorycommand
