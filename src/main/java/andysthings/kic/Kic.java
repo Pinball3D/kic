@@ -25,9 +25,9 @@ public final class Kic extends JavaPlugin implements Listener {
         getCommand("kic").setTabCompleter(new admintab());
         getServer().getPluginManager().registerEvents(this, this);
         permission = file.get("usePermission").toString();
-        if(Bukkit.getPluginManager().getPlugin("PlaceholderAPI") != null) {
-            new papi_ext(this).register();
-        }
+        //if(Bukkit.getPluginManager().getPlugin("PlaceholderAPI") != null) {
+        //new papi_ext(this).register();
+        //}
     }
 
     @Override

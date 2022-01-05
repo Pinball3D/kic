@@ -1,5 +1,8 @@
 package andysthings.kic;
 
+
+//Currently not working/installed. this will be the 1.3 update
+
 import me.clip.placeholderapi.expansion.PlaceholderExpansion;
 import org.bukkit.OfflinePlayer;
 import org.bukkit.plugin.Plugin;
